@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+img{
+    border: 10px solid white;
+    width: auto;
+    height: auto;
+}
+.meme{
+    padding: 5% 0 2%;
+}
+.clouded{
+    font-size: 250%;
+}
